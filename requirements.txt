@@ -1,4 +1,8 @@
+# First use PyPI
+--index-url https://pypi.org/simple
+# Then allow PyTorch's CUDA wheels
 --extra-index-url https://download.pytorch.org/whl/cu121
+
 joblib==1.4.2
 matplotlib==3.10.5
 numpy==1.24.4
