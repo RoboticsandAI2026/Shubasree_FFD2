@@ -9,4 +9,5 @@ Pillow==11.3.0
 scikit_learn==1.7.1
 streamlit==1.44.1
 tensorflow==2.19.0
-tensorflow_intel==2.18.0
+tensorflow-intel==2.18.0 has no wheels with a matching Python ABI tag
+
