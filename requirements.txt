@@ -1,6 +1,4 @@
---index-url https://pypi.org/simple
---extra-index-url https://download.pytorch.org/whl/cu121
-
+# requirements.txt (PyPI only)
 joblib==1.4.2
 matplotlib==3.10.5
 numpy==1.26.4
@@ -12,5 +10,3 @@ scikit_learn==1.7.1
 streamlit==1.44.1
 tensorflow==2.19.0
 tensorflow_intel==2.18.0
-torch==2.5.1+cu121
-torchvision==0.20.1+cu121
